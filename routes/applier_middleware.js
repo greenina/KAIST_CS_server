@@ -37,4 +37,16 @@ router.get('/all',(req,res)=>{
   })
 })
 
+router.post('/update/:studentId',(req,res)=>{
+  console.log("update",req.body.comment)
+  const studentId = req.params.studentId
+  console.log(req.params.studentId)
+  Applier.findOneAndUpdate({studentId: studentId}, {$set:{comment:req.body.comment,pass:req.body.pass}},{ new: true },function(err, doc){
+    if(err){
+        console.log("Something wrong when updating data!");
+    }
+    console.log(doc);
+})
+})
+
 module.exports = router;

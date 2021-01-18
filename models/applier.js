@@ -8,8 +8,8 @@ var applierSchema = new Schema({
     email:String,
     group:String,
     motive:String,
-    accept:Boolean,
-    extra:String
+    pass:Boolean,
+    comment:String
 },{collection:'appliers'});
 
 module.exports = mongoose.model('Applier', applierSchema);

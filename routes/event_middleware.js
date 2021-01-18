@@ -6,7 +6,7 @@ var img1_server_place = '';
 var img2_server_place = '';
 
 const storage = multer.diskStorage({
-  destination: './uploads/',
+  destination: './uploads',
   filename: (req, file, cb) => {
     cb(null, Date.now() + '-' +file.originalname)
   }
@@ -14,6 +14,7 @@ const storage = multer.diskStorage({
 const upload = multer({ storage: storage }).single('file')
 
 router.post('/add', (req,res, next) => {
+    console.log("addreq",req)
   var event = new Event();
 
   event.title=req.body.title;
@@ -37,11 +38,13 @@ router.post('/add', (req,res, next) => {
 })
 
 router.post('/uploads', (req, res) => {
+    console.log(req);
   upload(req, res, (err) => {
     if (err) {
       res.sendStatus(500);
     }
     res.send(req.file);
+    
     if(img1_server_place === '') {
       img1_server_place = req.file.path;
       console.log('poster image ' + img1_server_place + ' image saved in server');
@@ -52,6 +55,18 @@ router.post('/uploads', (req, res) => {
     }
   });
 });
+
+router.get('/all',(req,res)=>{
+    Event.find(function(err,events){
+        console.log("으으으악")
+      if(err) {
+        console.log(err);
+        return res.status(500).send({error:'database failure'});
+      }
+      res.json(events);
+    })
+  })
+  
 
 // router.get('/:name_', (req,res, next) => {
 //   Applier.findOne({name:name_},function(err,applier){

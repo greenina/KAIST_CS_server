@@ -24,7 +24,13 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use(bodyParser.json())
 app.use('/appliers', applierRouter);
 app.use('/event', eventRouter);
-
+app.use('/uploads',express.static('uploads'))
+app.post('/appliers',(req,res)=>{
+  console.log("wowowowow");
+  let name = req.body.name;
+  console.log(name);
+  res.send({result:1})
+})
 
 
 // // view engine setup
@@ -35,10 +41,10 @@ app.use('/event', eventRouter);
 
 
 // catch 404 and forward to error handler
-app.use(function(req, res, next) {
-  next(createError(404));
-});
-app.listen(8080,()=>{
+// app.use(function(req, res, next) {
+//   next(createError(404));
+// });
+app.listen(8081,()=>{
   console.log("server connected");
 })
 
