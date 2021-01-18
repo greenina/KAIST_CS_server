@@ -20,3 +20,18 @@ Open repository: /home/ubuntu
 > git show --textconv :app.js
 > git ls-files --stage -- /home/ubuntu/app.js
 > git show --textconv :app.js
+> git ls-files --stage -- /home/ubuntu/app.js
+> git cat-file -s 9bb3a1fd613e328fa3a2ad8b1c2934587e897cf7
+> git show --textconv :app.js
+> git ls-files --stage -- /home/ubuntu/app.js
+> git cat-file -s 9bb3a1fd613e328fa3a2ad8b1c2934587e897cf7
+> git show --textconv :app.js
+> git ls-files --stage -- /home/ubuntu/app.js
+> git cat-file -s 9bb3a1fd613e328fa3a2ad8b1c2934587e897cf7
+> git show --textconv :app.js
+> git show --textconv :routes/event_middleware.js
+> git ls-files --stage -- /home/ubuntu/routes/event_middleware.js
+> git cat-file -s 08180028ac0b98951ce7d45d2b0d1fbb26d0c000
+> git ls-files --stage -- /home/ubuntu/routes/event_middleware.js
+> git cat-file -s 08180028ac0b98951ce7d45d2b0d1fbb26d0c000
+> git show --textconv :routes/event_middleware.js
