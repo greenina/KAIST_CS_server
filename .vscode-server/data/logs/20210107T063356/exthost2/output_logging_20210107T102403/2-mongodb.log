@@ -1,0 +1,174 @@
+2021-01-07T10:24:04.112Z extension.ts INFO  activate extension called []
+
+2021-01-07T10:24:04.113Z telemetry INFO  TELEMETRY key received [ 'string' ]
+
+2021-01-07T10:24:04.115Z LanguageServerController INFO  Creating MongoDB Language Server [
+  {
+    serverOptions: { run: [Object], debug: [Object] },
+    clientOptions: {
+      documentSelector: [Array],
+      synchronize: [Object],
+      outputChannel: [Object]
+    }
+  }
+]
+
+2021-01-07T10:24:04.119Z explorer controller INFO  activate explorer controller []
+
+2021-01-07T10:24:04.119Z help and info explorer controller INFO  activate help explorer []
+
+2021-01-07T10:24:04.119Z explorer controller INFO  activate playgrounds explorer []
+
+2021-01-07T10:24:04.120Z playground controller INFO  Active editor path [ '/home/ubuntu/package-lock.json' ]
+
+2021-01-07T10:24:04.120Z editors controller INFO  activating... []
+
+2021-01-07T10:24:04.121Z editors controller INFO  activated. []
+
+2021-01-07T10:24:04.124Z commands INFO  Registering commands... []
+
+2021-01-07T10:24:04.125Z commands INFO  Registered commands. []
+
+2021-01-07T10:24:04.125Z extension.ts INFO  extension activated []
+
+2021-01-07T10:24:08.665Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-07T10:26:11.570Z playground controller INFO  Active editor path [ '/home/ubuntu/node_modules/mongodb/index.js' ]
+
+2021-01-07T10:26:27.551Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-07T10:26:27.589Z playground controller INFO  Active editor path [ '/home/ubuntu/node_modules/mongoose/index.js' ]
+
+2021-01-07T10:26:35.443Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-07T10:26:35.508Z playground controller INFO  Active editor path [ '/home/ubuntu/node_modules/mongodb/index.js' ]
+
+2021-01-07T10:42:24.755Z telemetry INFO  TELEMETRY track [
+  {
+    event: 'Command Run',
+    userId: '47b7aeae-861f-43ec-a78f-bbbd0ec81170',
+    properties: { command: 'mdb.connect' }
+  }
+]
+
+2021-01-07T10:42:24.757Z webviewController INFO  open webview called. []
+
+2021-01-07T10:42:24.791Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-07T10:42:35.432Z telemetry INFO  TELEMETRY track done []
+
+2021-01-07T10:42:57.433Z connection controller INFO  Connect called to connect to instance: [ '192.249.18.241:27017' ]
+
+2021-01-07T10:42:57.638Z connection controller INFO  Successfully connected []
+
+2021-01-07T10:42:57.928Z telemetry INFO  TELEMETRY track [
+  {
+    event: 'New Connection',
+    userId: '47b7aeae-861f-43ec-a78f-bbbd0ec81170',
+    properties: {
+      is_atlas: false,
+      is_localhost: false,
+      is_data_lake: false,
+      is_enterprise: false,
+      is_public_cloud: false,
+      public_cloud_name: null,
+      is_genuine: true,
+      non_genuine_server_name: null,
+      server_version: '4.4.3',
+      server_arch: 'x86_64',
+      server_os: 'linux',
+      is_used_connect_screen: true,
+      is_used_command_palette: false,
+      is_used_saved_connection: false
+    }
+  }
+]
+
+2021-01-07T10:43:08.583Z telemetry INFO  TELEMETRY track done []
+
+2021-01-07T10:43:12.901Z telemetry INFO  TELEMETRY track [
+  {
+    event: 'Command Run',
+    userId: '47b7aeae-861f-43ec-a78f-bbbd0ec81170',
+    properties: { command: 'mdb.createNewPlaygroundFromOverviewPage' }
+  }
+]
+
+2021-01-07T10:43:13.039Z playground controller INFO  Active editor path [ 'Untitled-1' ]
+
+2021-01-07T10:43:22.436Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-07T10:43:23.404Z telemetry INFO  TELEMETRY track done []
+
+2021-01-07T10:43:26.773Z playground controller INFO  Active editor path [ 'Untitled-1' ]
+
+2021-01-07T10:43:31.188Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-07T10:43:31.190Z playground controller INFO  Active editor path [ '/home/ubuntu/node_modules/mongodb/index.js' ]
+
+2021-01-07T10:43:33.862Z explorer controller INFO  Tree item was expanded: [ '192.249.18.241:27017' ]
+
+2021-01-07T10:43:34.017Z explorer controller INFO  Tree item was collapsed: [ '192.249.18.241:27017' ]
+
+2021-01-07T10:43:34.468Z explorer controller INFO  Tree item was expanded: [ '192.249.18.241:27017' ]
+
+2021-01-07T10:43:35.173Z explorer controller INFO  Tree item was expanded: [ 'admin' ]
+
+2021-01-07T10:43:36.036Z explorer controller INFO  Tree item was expanded: [ 'config' ]
+
+2021-01-07T10:43:36.676Z explorer controller INFO  Tree item was expanded: [ 'local' ]
+
+2021-01-07T10:43:40.885Z explorer controller INFO  Tree item was expanded: [ 'system.users' ]
+
+2021-01-07T10:43:40.885Z tree view collection folder INFO  fetching document count from namespace admin.system.users []
+
+2021-01-07T10:43:41.045Z explorer controller INFO  Tree item was collapsed: [ 'system.users' ]
+
+2021-01-07T10:43:41.462Z explorer controller INFO  Tree item was expanded: [ 'system.users' ]
+
+2021-01-07T10:43:41.462Z tree view collection folder INFO  fetching document count from namespace admin.system.users []
+
+2021-01-07T10:43:42.405Z explorer controller INFO  Tree item was expanded: [ 'Documents' ]
+
+2021-01-07T10:43:42.405Z tree view collection folder INFO  fetching document count from namespace admin.system.users []
+
+2021-01-07T10:43:42.460Z tree view document list INFO  fetching 10 documents from namespace admin.system.users []
+
+2021-01-07T10:43:43.935Z explorer controller INFO  Tree item was collapsed: [ 'Documents' ]
+
+2021-01-07T10:43:45.079Z explorer controller INFO  Tree item was expanded: [ 'Documents' ]
+
+2021-01-07T10:43:45.080Z tree view collection folder INFO  fetching document count from namespace admin.system.users []
+
+2021-01-07T10:43:45.096Z tree view document list INFO  fetching 10 documents from namespace admin.system.users []
+
+2021-01-07T10:43:45.943Z explorer controller INFO  Tree item was collapsed: [ 'Documents' ]
+
+2021-01-07T10:46:17.512Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-07T10:53:04.740Z playground controller INFO  Active editor path [ '/home/ubuntu/app_and.js' ]
+
+2021-01-07T11:01:06.095Z playground controller INFO  Active editor path [ '/home/ubuntu/package-lock.json' ]
+
+2021-01-07T11:06:08.489Z playground controller INFO  Active editor path [ '/home/ubuntu/app_and.js' ]
+
+2021-01-07T11:34:34.498Z playground controller INFO  Active editor path [ '/home/ubuntu/node_modules/mongodb/index.js' ]
+
+2021-01-07T11:34:40.124Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-07T11:34:40.127Z playground controller INFO  Active editor path [ '/home/ubuntu/app_and.js' ]
+
+2021-01-07T12:46:39.126Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-07T12:46:39.129Z playground controller INFO  Active editor path [ 'Untitled-1' ]
+
+2021-01-07T12:49:21.198Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-07T12:49:21.201Z playground controller INFO  Active editor path [ '/home/ubuntu/app_and.js' ]
+
+2021-01-07T20:03:08.499Z playground controller INFO  Active editor path [ '/home/ubuntu/app_and.js' ]
+
+2021-01-08T01:16:18.050Z connection controller INFO  Disconnect called, currently connected to: [ '7ef4c404-2ca3-43a7-bd0b-1003b8cb7254' ]
+
+2021-01-08T01:16:18.054Z connection controller INFO  Disconnect called, currently connected to: [ null ]
+

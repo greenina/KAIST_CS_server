@@ -1,0 +1,59 @@
+2021-01-08T03:51:46.729Z: Running in production mode.
+2021-01-08T03:51:46.845Z: Running in production mode.
+2021-01-08T03:51:46.848Z: Running in production mode.
+2021-01-08T03:51:46.873Z: 35 code actions loaded.
+2021-01-08T03:51:46.914Z: 35 code actions loaded.
+2021-01-08T03:51:46.967Z: 35 code actions loaded.
+2021-01-08T03:53:54.746Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-08T05:02:48.837Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-08T05:06:15.810Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-08T05:07:43.716Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-08T05:09:25.942Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T10:57:35.056Z: Syntax error in file file:///home/ubuntu/app_and.js (22:77).
+2021-01-09T10:57:42.185Z: Syntax error in file file:///home/ubuntu/app_and.js (22:76).
+2021-01-09T10:57:43.902Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T10:57:46.018Z: Syntax error in file file:///home/ubuntu/app_and.js (22:80).
+2021-01-09T10:57:48.827Z: Syntax error in file file:///home/ubuntu/app_and.js (22:91).
+2021-01-09T10:57:59.790Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T10:58:02.307Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T10:58:09.077Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T10:58:12.501Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T10:58:26.653Z: Syntax error in file file:///home/ubuntu/app_and.js (23:34).
+2021-01-09T10:58:30.353Z: Syntax error in file file:///home/ubuntu/app_and.js (23:44).
+2021-01-09T10:58:32.560Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T10:58:36.030Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T10:58:43.909Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T10:58:46.318Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T11:03:29.695Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T11:03:43.336Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T11:03:46.748Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T11:03:56.309Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T11:04:02.640Z: Syntax error in file file:///home/ubuntu/app_and.js (51:95).
+2021-01-09T11:04:05.842Z: Syntax error in file file:///home/ubuntu/app_and.js (51:95).
+2021-01-09T11:04:29.248Z: Syntax error in file file:///home/ubuntu/app_and.js (51:66).
+2021-01-09T11:04:33.378Z: Syntax error in file file:///home/ubuntu/app_and.js (51:94).
+2021-01-09T11:04:35.979Z: Syntax error in file file:///home/ubuntu/app_and.js (51:93).
+2021-01-09T11:04:38.335Z: Syntax error in file file:///home/ubuntu/app_and.js (51:92).
+2021-01-09T11:04:43.279Z: Syntax error in file file:///home/ubuntu/app_and.js (51:93).
+2021-01-09T11:04:46.404Z: Syntax error in file file:///home/ubuntu/app_and.js (51:94).
+2021-01-09T11:04:48.971Z: Syntax error in file file:///home/ubuntu/app_and.js (51:95).
+2021-01-09T11:04:52.433Z: Syntax error in file file:///home/ubuntu/app_and.js (51:95).
+2021-01-09T11:04:54.002Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T11:05:01.338Z: Syntax error in file file:///home/ubuntu/app_and.js (52:30).
+2021-01-09T11:05:04.436Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T11:05:08.150Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T11:05:13.099Z: Syntax error in file file:///home/ubuntu/app_and.js (52:61).
+2021-01-09T11:05:18.392Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T11:05:24.655Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T12:14:32.871Z: Syntax error in file file:///home/ubuntu/app_and.js (42:0).
+2021-01-09T12:14:35.170Z: Syntax error in file file:///home/ubuntu/app_and.js (38:3).
+2021-01-09T12:14:52.348Z: Syntax error in file file:///home/ubuntu/app_and.js (38:3).
+2021-01-09T12:14:54.811Z: Syntax error in file file:///home/ubuntu/app_and.js (12:0).
+2021-01-09T12:15:02.535Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T12:15:09.521Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T12:18:02.403Z: Syntax error in file file:///home/ubuntu/app_and.js (60:3).
+2021-01-09T12:18:18.178Z: Syntax error in file file:///home/ubuntu/app_and.js (60:2).
+2021-01-09T12:18:19.683Z: Syntax error in file file:///home/ubuntu/app_and.js (60:3).
+2021-01-09T12:18:36.495Z: File now valid: file:///home/ubuntu/app_and.js.
+2021-01-09T12:21:15.817Z: Syntax error in file file:///home/ubuntu/app_and.js (41:0).
+2021-01-09T12:21:23.665Z: File now valid: file:///home/ubuntu/app_and.js.

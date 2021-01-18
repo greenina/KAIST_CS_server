@@ -1,0 +1,461 @@
+2021-01-18T02:19:25.003Z extension.ts INFO  activate extension called []
+
+2021-01-18T02:19:25.010Z telemetry INFO  TELEMETRY key received [ 'string' ]
+
+2021-01-18T02:19:25.012Z LanguageServerController INFO  Creating MongoDB Language Server [
+  {
+    serverOptions: { run: [Object], debug: [Object] },
+    clientOptions: {
+      documentSelector: [Array],
+      synchronize: [Object],
+      outputChannel: [Object]
+    }
+  }
+]
+
+2021-01-18T02:19:25.016Z explorer controller INFO  activate explorer controller []
+
+2021-01-18T02:19:25.016Z help and info explorer controller INFO  activate help explorer []
+
+2021-01-18T02:19:25.017Z explorer controller INFO  activate playgrounds explorer []
+
+2021-01-18T02:19:25.017Z playground controller INFO  Active editor path [ '/home/ubuntu/package-lock.json' ]
+
+2021-01-18T02:19:25.018Z editors controller INFO  activating... []
+
+2021-01-18T02:19:25.018Z editors controller INFO  activated. []
+
+2021-01-18T02:19:25.027Z commands INFO  Registering commands... []
+
+2021-01-18T02:19:25.028Z commands INFO  Registered commands. []
+
+2021-01-18T02:19:25.028Z extension.ts INFO  extension activated []
+
+2021-01-18T02:19:26.562Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T02:19:26.583Z playground controller INFO  Active editor path [ '/home/ubuntu/package.json' ]
+
+2021-01-18T02:19:28.823Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T02:19:28.879Z playground controller INFO  Active editor path [ '/home/ubuntu/package-lock.json' ]
+
+2021-01-18T02:20:42.911Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T02:20:54.352Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T02:23:47.416Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/index.js' ]
+
+2021-01-18T02:23:55.117Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T02:24:31.069Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/index.js' ]
+
+2021-01-18T02:27:08.072Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T02:56:13.500Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/index.js' ]
+
+2021-01-18T02:56:20.871Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T02:56:35.968Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/index.js' ]
+
+2021-01-18T03:27:16.504Z playground controller INFO  Active editor path [ '/home/ubuntu/node_modules/express/lib/router/index.js' ]
+
+2021-01-18T03:27:21.211Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T03:27:21.215Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/index.js' ]
+
+2021-01-18T03:30:28.845Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T03:35:12.850Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/index.js' ]
+
+2021-01-18T03:35:34.985Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T03:36:13.133Z playground controller INFO  Active editor path [ '/home/ubuntu/models/applier.js' ]
+
+2021-01-18T03:36:16.363Z playground controller INFO  Active editor path [ '/home/ubuntu/models/event.js' ]
+
+2021-01-18T03:36:29.826Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/index.js' ]
+
+2021-01-18T03:37:05.005Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T03:37:20.180Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/index.js' ]
+
+2021-01-18T03:37:37.197Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T03:37:37.334Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/applier_middleware.js' ]
+
+2021-01-18T03:37:52.050Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware' ]
+
+2021-01-18T03:37:57.331Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T03:37:57.420Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T03:37:58.987Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/applier_middleware.js' ]
+
+2021-01-18T03:38:01.927Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T03:38:02.970Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/applier_middleware.js' ]
+
+2021-01-18T03:38:10.378Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T03:38:12.133Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T03:38:44.510Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T03:39:03.189Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/applier_middleware.js' ]
+
+2021-01-18T03:39:04.230Z playground controller INFO  Active editor path [ '/home/ubuntu/models/event.js' ]
+
+2021-01-18T03:39:06.070Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T03:41:25.616Z playground controller INFO  Active editor path [ '/home/ubuntu/models/event.js' ]
+
+2021-01-18T03:41:30.843Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T03:41:30.845Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T03:41:31.326Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/applier_middleware.js' ]
+
+2021-01-18T03:41:36.527Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T03:41:42.249Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/applier_middleware.js' ]
+
+2021-01-18T03:41:44.264Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T03:43:12.087Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T03:44:13.815Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T03:45:20.502Z playground controller INFO  Active editor path [ '/home/ubuntu/models/event.js' ]
+
+2021-01-18T03:45:44.474Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T03:45:47.421Z playground controller INFO  Active editor path [ '/home/ubuntu/models/event.js' ]
+
+2021-01-18T04:03:55.731Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:07:34.157Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/image_middleware' ]
+
+2021-01-18T04:07:40.700Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T04:07:40.798Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/image_middleware.js' ]
+
+2021-01-18T04:07:41.894Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:07:44.047Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/image_middleware.js' ]
+
+2021-01-18T04:09:15.422Z playground controller INFO  Active editor path [ '/home/ubuntu/models/event.js' ]
+
+2021-01-18T04:09:16.081Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/image_middleware.js' ]
+
+2021-01-18T04:09:18.140Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T04:10:10.072Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:10:12.433Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/image_middleware.js' ]
+
+2021-01-18T04:10:13.755Z playground controller INFO  Active editor path [ '/home/ubuntu/models/event.js' ]
+
+2021-01-18T04:10:15.484Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:10:37.104Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/image_middleware.js' ]
+
+2021-01-18T04:11:07.744Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:11:14.653Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/image_middleware.js' ]
+
+2021-01-18T04:11:21.622Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:11:24.977Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/image_middleware.js' ]
+
+2021-01-18T04:13:43.638Z playground controller INFO  Active editor path [ '/home/ubuntu/models/image.js' ]
+
+2021-01-18T04:13:45.605Z playground controller INFO  Active editor path [ '/home/ubuntu/models/event.js' ]
+
+2021-01-18T04:13:47.799Z playground controller INFO  Active editor path [ '/home/ubuntu/models/image.js' ]
+
+2021-01-18T04:14:01.239Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/image_middleware.js' ]
+
+2021-01-18T04:14:08.274Z playground controller INFO  Active editor path [ '/home/ubuntu/models/image.js' ]
+
+2021-01-18T04:14:15.552Z playground controller INFO  Active editor path [ '/home/ubuntu/models/event.js' ]
+
+2021-01-18T04:14:17.625Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T04:14:17.627Z playground controller INFO  Active editor path [ '/home/ubuntu/models/image.js' ]
+
+2021-01-18T04:14:18.391Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/image_middleware.js' ]
+
+2021-01-18T04:14:23.534Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:14:24.276Z playground controller INFO  Active editor path [ '/home/ubuntu/models/image.js' ]
+
+2021-01-18T04:14:28.351Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/image_middleware.js' ]
+
+2021-01-18T04:14:30.281Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:14:51.339Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T04:14:51.342Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/image_middleware.js' ]
+
+2021-01-18T04:14:52.732Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T04:14:52.734Z playground controller INFO  Active editor path [ '/home/ubuntu/models/image.js' ]
+
+2021-01-18T04:14:53.812Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T04:14:53.813Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T04:15:02.340Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/image_middleware.js' ]
+
+2021-01-18T04:15:03.133Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T04:15:03.185Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T04:42:57.401Z playground controller INFO  Active editor path [ '/home/ubuntu/models/event.js' ]
+
+2021-01-18T04:43:02.299Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T04:43:02.301Z playground controller INFO  Active editor path [ '/home/ubuntu/models/event.js' ]
+
+2021-01-18T04:43:07.862Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T04:45:24.330Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:45:26.213Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:45:39.478Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T04:48:15.750Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:48:23.487Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T04:48:29.117Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:48:35.742Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T04:48:37.428Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:48:50.753Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T04:48:52.468Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:49:10.710Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T04:49:34.610Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:51:00.165Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T04:51:08.899Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:51:11.739Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T04:51:19.098Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:51:56.326Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T04:52:06.606Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:54:17.216Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T04:54:36.715Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:55:13.640Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T04:55:31.982Z playground controller INFO  Active editor path [ '/home/ubuntu/models/event.js' ]
+
+2021-01-18T04:55:36.953Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:55:42.362Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T04:56:01.853Z playground controller INFO  Active editor path [ '/home/ubuntu/models/event.js' ]
+
+2021-01-18T04:56:10.369Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T04:56:10.998Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T04:57:27.958Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T04:57:29.991Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T05:13:05.240Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T05:13:07.938Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T05:14:42.258Z playground controller INFO  Active editor path [ '/home/ubuntu/models/event.js' ]
+
+2021-01-18T05:14:59.815Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T05:14:59.817Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T05:17:52.923Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T05:18:00.579Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T05:23:44.200Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T05:23:53.106Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T05:23:55.951Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T05:24:08.437Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T05:24:20.343Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T05:24:24.236Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T05:24:24.240Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T05:24:52.617Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T05:24:54.859Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T05:24:54.860Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T05:24:59.958Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T05:25:06.608Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T05:25:13.034Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T05:25:18.960Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T05:26:53.600Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T05:26:54.233Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T05:28:03.902Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T05:28:06.638Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T05:28:06.641Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T06:30:40.983Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T06:36:41.021Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T06:36:44.933Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T06:37:41.600Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T06:37:45.040Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T06:37:45.043Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T06:49:42.309Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/applier_middleware.js' ]
+
+2021-01-18T06:50:04.514Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T06:55:20.398Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T06:55:40.744Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T06:56:30.758Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T06:56:32.720Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T06:56:37.903Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T06:56:39.776Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T06:56:41.633Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T06:56:44.814Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T06:58:21.561Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T06:58:27.757Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T07:00:08.710Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T07:00:13.233Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T07:00:13.883Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T07:00:15.386Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T07:00:36.205Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T07:00:38.381Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T07:01:10.318Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T07:02:29.947Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T07:09:53.348Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T07:09:55.922Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T07:11:15.564Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T07:11:39.678Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T07:11:54.712Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T07:12:06.556Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T07:12:35.042Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T07:12:40.382Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T07:13:13.369Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T07:13:15.589Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T07:15:03.280Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T07:15:09.036Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T07:15:19.035Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T07:15:22.212Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T07:15:25.286Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T07:15:30.088Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T07:15:39.802Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T07:15:45.586Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T07:15:52.797Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T07:15:57.200Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T07:15:58.171Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T07:16:25.985Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T07:16:28.193Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T07:16:53.114Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T07:19:30.849Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T07:21:43.430Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T07:21:47.966Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T07:25:15.263Z playground controller INFO  Active editor path [ '/home/ubuntu/models/event.js' ]
+
+2021-01-18T07:25:22.180Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T07:25:22.181Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T07:25:26.114Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T07:25:27.679Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T07:26:40.949Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T07:26:43.275Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T07:28:06.665Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T07:28:08.951Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T07:29:56.093Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+
+2021-01-18T07:32:17.000Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T07:36:12.180Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+

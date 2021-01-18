@@ -1,0 +1,37 @@
+[2021-01-18 02:17:06.586] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-01-18 02:17:06.586] [remoteagent] [info] Extension host agent started.
+[2021-01-18 02:17:06.701] [remoteagent] [info] [127.0.0.1][2c01d82c][ExtensionHostConnection] New connection established.
+[2021-01-18 02:17:06.703] [remoteagent] [info] [127.0.0.1][648a0106][ManagementConnection] New connection established.
+[2021-01-18 02:17:06.713] [remoteagent] [info] Deleted from disk ms-vscode.vscode-typescript-next /home/ubuntu/.vscode-server/extensions/ms-vscode.vscode-typescript-next-4.2.20210108
+[2021-01-18 02:17:06.717] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2021-01-18 02:17:06.800] [remoteagent] [info] [127.0.0.1][2c01d82c][ExtensionHostConnection] <5558> Launched Extension Host Process.
+[2021-01-18 02:17:08.557] [remoteagent] [info] Installing extension: ms-vscode.vscode-typescript-next
+[2021-01-18 02:17:09.452] [remoteagent] [info] Downloaded extension: ms-vscode.vscode-typescript-next undefined
+[2021-01-18 02:17:10.030] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.ms-vscode.vscode-typescript-next-4.2.20210115: ms-vscode.vscode-typescript-next
+[2021-01-18 02:17:10.031] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode.vscode-typescript-next-4.2.20210115
+[2021-01-18 02:17:10.032] [remoteagent] [info] Installation completed. ms-vscode.vscode-typescript-next
+[2021-01-18 02:17:10.038] [remoteagent] [info] Extensions installed successfully: ms-vscode.vscode-typescript-next
+[2021-01-18 02:17:19.435] [remoteagent] [info] [127.0.0.1][648a0106][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-01-18 02:17:20.456] [remoteagent] [info] [127.0.0.1][2c01d82c][ExtensionHostConnection] <5558> Extension Host Process exited with code: 0, signal: null.
+[2021-01-18 02:17:20.456] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-01-18 02:17:21.844] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-01-18 02:17:21.844] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-01-18 02:17:21.932] [remoteagent] [info] [127.0.0.1][491ccc58][ExtensionHostConnection] New connection established.
+[2021-01-18 02:17:21.933] [remoteagent] [info] [127.0.0.1][9193b195][ManagementConnection] New connection established.
+[2021-01-18 02:17:21.941] [remoteagent] [info] [127.0.0.1][491ccc58][ExtensionHostConnection] <5735> Launched Extension Host Process.
+[2021-01-18 02:17:21.952] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2021-01-18 02:17:21.964] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/.vscode'
+[2021-01-18 02:22:21.846] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-01-18 06:23:47.326] [remoteagent] [info] [127.0.0.1][9193b195][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-01-18 06:25:15.093] [remoteagent] [info] [127.0.0.1][9193b195][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-01-18 06:25:15.094] [remoteagent] [info] [127.0.0.1][9193b195][ManagementConnection] The client has reconnected.
+[2021-01-18 06:25:19.215] [remoteagent] [info] [127.0.0.1][491ccc58][ExtensionHostConnection] The client has reconnected.

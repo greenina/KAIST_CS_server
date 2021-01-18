@@ -1,0 +1,52 @@
+[2021-01-08 03:51:35.959] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-01-08 03:51:35.959] [remoteagent] [info] Extension host agent started.
+[2021-01-08 03:51:36.098] [remoteagent] [error] [127.0.0.1][b78aadcb][ManagementConnection] Unknown reconnection token.
+[2021-01-08 03:51:42.113] [remoteagent] [info] [127.0.0.1][f79149d1][ManagementConnection] New connection established.
+[2021-01-08 03:51:42.114] [remoteagent] [info] [127.0.0.1][4e026b12][ExtensionHostConnection] New connection established.
+[2021-01-08 03:51:42.135] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2021-01-08 03:51:42.140] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/.vscode'
+[2021-01-08 03:51:42.219] [remoteagent] [info] [127.0.0.1][4e026b12][ExtensionHostConnection] <4641> Launched Extension Host Process.
+[2021-01-08 03:51:44.252] [remoteagent] [info] Installing extension: ms-vscode.vscode-typescript-next
+[2021-01-08 03:51:46.585] [remoteagent] [info] Downloaded extension: ms-vscode.vscode-typescript-next undefined
+[2021-01-08 03:51:47.713] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.ms-vscode.vscode-typescript-next-4.2.20210107: ms-vscode.vscode-typescript-next
+[2021-01-08 03:51:47.713] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode.vscode-typescript-next-4.2.20210107
+[2021-01-08 03:51:47.716] [remoteagent] [info] Installation completed. ms-vscode.vscode-typescript-next
+[2021-01-08 03:51:47.724] [remoteagent] [info] Extensions installed successfully: ms-vscode.vscode-typescript-next
+[2021-01-09 03:51:47.375] [remoteagent] [info] Installing extension: ms-vscode.js-debug-nightly
+[2021-01-09 03:51:47.376] [remoteagent] [info] Installing extension: ms-vscode.vscode-typescript-next
+[2021-01-09 03:51:48.506] [remoteagent] [info] Downloaded extension: ms-vscode.js-debug-nightly undefined
+[2021-01-09 03:51:48.566] [remoteagent] [info] Downloaded extension: ms-vscode.vscode-typescript-next undefined
+[2021-01-09 03:51:48.617] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.ms-vscode.js-debug-nightly-2021.1.817: ms-vscode.js-debug-nightly
+[2021-01-09 03:51:48.617] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode.js-debug-nightly-2021.1.817
+[2021-01-09 03:51:48.624] [remoteagent] [info] Installation completed. ms-vscode.js-debug-nightly
+[2021-01-09 03:51:48.637] [remoteagent] [info] Extensions installed successfully: ms-vscode.js-debug-nightly
+[2021-01-09 03:51:49.109] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.ms-vscode.vscode-typescript-next-4.2.20210108: ms-vscode.vscode-typescript-next
+[2021-01-09 03:51:49.110] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode.vscode-typescript-next-4.2.20210108
+[2021-01-09 03:51:49.111] [remoteagent] [info] Installation completed. ms-vscode.vscode-typescript-next
+[2021-01-09 03:51:49.122] [remoteagent] [info] Extensions installed successfully: ms-vscode.vscode-typescript-next
+[2021-01-09 17:16:33.274] [remoteagent] [info] [127.0.0.1][f79149d1][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-01-09 20:15:57.283] [remoteagent] [info] [127.0.0.1][f79149d1][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-01-09 20:15:57.284] [remoteagent] [info] [127.0.0.1][f79149d1][ManagementConnection] The client has reconnected.
+[2021-01-09 20:15:57.285] [remoteagent] [info] [127.0.0.1][4e026b12][ExtensionHostConnection] The client has reconnected.
+[2021-01-09 20:31:50.858] [remoteagent] [info] [127.0.0.1][f79149d1][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-01-09 20:53:58.432] [remoteagent] [info] [127.0.0.1][f79149d1][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-01-09 20:53:58.432] [remoteagent] [info] [127.0.0.1][f79149d1][ManagementConnection] The client has reconnected.
+[2021-01-09 20:53:58.432] [remoteagent] [info] [127.0.0.1][4e026b12][ExtensionHostConnection] The client has reconnected.
+[2021-01-09 21:12:27.246] [remoteagent] [info] [127.0.0.1][f79149d1][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-01-09 21:22:14.533] [remoteagent] [info] [127.0.0.1][f79149d1][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-01-09 21:22:14.534] [remoteagent] [info] [127.0.0.1][4e026b12][ExtensionHostConnection] The client has reconnected.
+[2021-01-09 21:22:14.534] [remoteagent] [info] [127.0.0.1][f79149d1][ManagementConnection] The client has reconnected.
+[2021-01-09 21:45:52.071] [remoteagent] [info] [127.0.0.1][f79149d1][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-01-10 00:45:45.805] [remoteagent] [info] [127.0.0.1][4e026b12][ExtensionHostConnection] <4641> Extension Host Process exited with code: 0, signal: null.
+[2021-01-10 00:45:45.805] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-01-10 00:45:52.072] [remoteagent] [info] [127.0.0.1][f79149d1][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2021-01-10 00:50:45.807] [remoteagent] [info] Last EH closed, shutting down

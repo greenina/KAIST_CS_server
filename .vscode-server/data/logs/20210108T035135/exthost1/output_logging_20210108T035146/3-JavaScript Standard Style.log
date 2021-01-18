@@ -1,0 +1,16 @@
+[Info  - 3:51:46 AM] JavaScript Standard Style server is running.
+[Info  - 3:51:46 AM] 
+Failed to load the JavaScript Standard Style library for the document /home/ubuntu/app_and.js
+
+To use JavaScript Standard Style please install JavaScript Standard Style by running 'npm install standard' in the workspace folder ubuntu
+or globally using 'npm install -g standard'. You need to reopen the workspace after installing JavaScript Standard Style.
+
+Alternatively you can disable JavaScript Standard Style for the workspace folder ubuntu by executing the 'Disable JavaScript Standard Style' command.
+[Info  - 12:17:58 PM] 
+Failed to load the JavaScript Standard Style library for the document /home/ubuntu/node_modules/@types/mongodb/index.d.ts
+
+To use JavaScript Standard Style please install JavaScript Standard Style by running 'npm install standard' in the workspace folder ubuntu
+or globally using 'npm install -g standard'. You need to reopen the workspace after installing JavaScript Standard Style.
+
+Alternatively you can disable JavaScript Standard Style for the workspace folder ubuntu by executing the 'Disable JavaScript Standard Style' command.
+[Info  - 12:45:44 AM] JavaScript Standard Style server stopped.

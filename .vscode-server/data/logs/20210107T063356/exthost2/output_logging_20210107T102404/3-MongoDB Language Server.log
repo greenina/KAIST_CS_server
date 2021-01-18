@@ -1,0 +1,3 @@
+MONGOSH get list databases...
+Warning: no saslprep library specified. Passwords will not be sanitized
+MONGOSH found 3 databases

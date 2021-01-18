@@ -1,0 +1,10 @@
+db
+show dbs
+db.test_collection.insert({"test_name:"woongje", "test_number":1234})
+db.test.insert({"test_name:"woongje", "test_number":1234})
+use test
+db.dropDatabase();
+show dbs
+use madcamp
+db.getUsers()
+o

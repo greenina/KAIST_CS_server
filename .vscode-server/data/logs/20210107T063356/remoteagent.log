@@ -1,0 +1,94 @@
+[2021-01-07 06:33:57.013] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-01-07 06:33:57.013] [remoteagent] [info] Extension host agent started.
+[2021-01-07 06:33:57.034] [remoteagent] [info] [127.0.0.1][1feb2803][ManagementConnection] New connection established.
+[2021-01-07 06:33:57.035] [remoteagent] [info] [127.0.0.1][f8080575][ExtensionHostConnection] New connection established.
+[2021-01-07 06:33:57.048] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2021-01-07 06:33:57.116] [remoteagent] [info] [127.0.0.1][f8080575][ExtensionHostConnection] <1559> Launched Extension Host Process.
+[2021-01-07 06:35:56.667] [remoteagent] [info] Installing extension: mongodb.mongodb-vscode
+[2021-01-07 06:35:57.490] [remoteagent] [info] Downloaded extension: mongodb.mongodb-vscode undefined
+[2021-01-07 06:35:57.710] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.mongodb.mongodb-vscode-0.3.0: mongodb.mongodb-vscode
+[2021-01-07 06:35:57.710] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/mongodb.mongodb-vscode-0.3.0
+[2021-01-07 06:35:57.711] [remoteagent] [info] Installation completed. mongodb.mongodb-vscode
+[2021-01-07 06:35:57.717] [remoteagent] [info] Extensions installed successfully: mongodb.mongodb-vscode
+[2021-01-07 06:35:58.457] [remoteagent] [info] Installing extension: bagonaut.mongogo
+[2021-01-07 06:35:59.780] [remoteagent] [info] Downloaded extension: bagonaut.mongogo undefined
+[2021-01-07 06:35:59.789] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.bagonaut.mongogo-0.1.2: bagonaut.mongogo
+[2021-01-07 06:35:59.789] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/bagonaut.mongogo-0.1.2
+[2021-01-07 06:35:59.789] [remoteagent] [info] Installation completed. bagonaut.mongogo
+[2021-01-07 06:35:59.792] [remoteagent] [info] Extensions installed successfully: bagonaut.mongogo
+[2021-01-07 06:36:35.616] [remoteagent] [info] Installing extension: mgmcdermott.vscode-language-babel
+[2021-01-07 06:36:36.276] [remoteagent] [info] Installing extension: ms-vscode.vscode-typescript-next
+[2021-01-07 06:36:36.289] [remoteagent] [info] Downloaded extension: mgmcdermott.vscode-language-babel undefined
+[2021-01-07 06:36:36.319] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.mgmcdermott.vscode-language-babel-0.0.30: mgmcdermott.vscode-language-babel
+[2021-01-07 06:36:36.319] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/mgmcdermott.vscode-language-babel-0.0.30
+[2021-01-07 06:36:36.320] [remoteagent] [info] Installation completed. mgmcdermott.vscode-language-babel
+[2021-01-07 06:36:36.322] [remoteagent] [info] Extensions installed successfully: mgmcdermott.vscode-language-babel
+[2021-01-07 06:36:36.855] [remoteagent] [info] Installing extension: sburg.vscode-javascript-booster
+[2021-01-07 06:36:37.871] [remoteagent] [info] Downloaded extension: sburg.vscode-javascript-booster undefined
+[2021-01-07 06:36:37.985] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.sburg.vscode-javascript-booster-14.0.1: sburg.vscode-javascript-booster
+[2021-01-07 06:36:37.985] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/sburg.vscode-javascript-booster-14.0.1
+[2021-01-07 06:36:37.986] [remoteagent] [info] Installation completed. sburg.vscode-javascript-booster
+[2021-01-07 06:36:37.988] [remoteagent] [info] Extensions installed successfully: sburg.vscode-javascript-booster
+[2021-01-07 06:36:38.137] [remoteagent] [info] Installing extension: ms-vscode.js-debug-nightly
+[2021-01-07 06:36:38.813] [remoteagent] [info] Downloaded extension: ms-vscode.js-debug-nightly undefined
+[2021-01-07 06:36:38.916] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.ms-vscode.js-debug-nightly-2021.1.417: ms-vscode.js-debug-nightly
+[2021-01-07 06:36:38.916] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode.js-debug-nightly-2021.1.417
+[2021-01-07 06:36:38.922] [remoteagent] [info] Installation completed. ms-vscode.js-debug-nightly
+[2021-01-07 06:36:38.932] [remoteagent] [info] Extensions installed successfully: ms-vscode.js-debug-nightly
+[2021-01-07 06:36:39.553] [remoteagent] [info] Installing extension: ms-vscode.typescript-javascript-grammar
+[2021-01-07 06:36:39.625] [remoteagent] [info] Downloaded extension: ms-vscode.vscode-typescript-next undefined
+[2021-01-07 06:36:39.994] [remoteagent] [info] Downloaded extension: ms-vscode.typescript-javascript-grammar undefined
+[2021-01-07 06:36:40.010] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.ms-vscode.typescript-javascript-grammar-0.0.55: ms-vscode.typescript-javascript-grammar
+[2021-01-07 06:36:40.010] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode.typescript-javascript-grammar-0.0.55
+[2021-01-07 06:36:40.011] [remoteagent] [info] Installation completed. ms-vscode.typescript-javascript-grammar
+[2021-01-07 06:36:40.192] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.ms-vscode.vscode-typescript-next-4.2.20210106: ms-vscode.vscode-typescript-next
+[2021-01-07 06:36:40.192] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode.vscode-typescript-next-4.2.20210106
+[2021-01-07 06:36:40.193] [remoteagent] [info] Installation completed. ms-vscode.vscode-typescript-next
+[2021-01-07 06:36:40.196] [remoteagent] [info] Extensions installed successfully: ms-vscode.vscode-typescript-next
+[2021-01-07 06:36:40.313] [remoteagent] [info] Extensions installed successfully: ms-vscode.typescript-javascript-grammar
+[2021-01-07 06:36:41.361] [remoteagent] [info] Installing extension: wscats.eno
+[2021-01-07 06:36:42.175] [remoteagent] [info] Installing extension: chenxsan.vscode-standardjs
+[2021-01-07 06:36:44.427] [remoteagent] [info] Downloaded extension: chenxsan.vscode-standardjs undefined
+[2021-01-07 06:36:45.371] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.chenxsan.vscode-standardjs-1.4.0: chenxsan.vscode-standardjs
+[2021-01-07 06:36:45.371] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/chenxsan.vscode-standardjs-1.4.0
+[2021-01-07 06:36:45.377] [remoteagent] [info] Installation completed. chenxsan.vscode-standardjs
+[2021-01-07 06:36:45.384] [remoteagent] [info] Extensions installed successfully: chenxsan.vscode-standardjs
+[2021-01-07 06:36:45.459] [remoteagent] [info] Downloaded extension: wscats.eno undefined
+[2021-01-07 06:36:49.039] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.wscats.eno-2.3.53: wscats.eno
+[2021-01-07 06:36:49.040] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/wscats.eno-2.3.53
+[2021-01-07 06:36:49.041] [remoteagent] [info] Installation completed. wscats.eno
+[2021-01-07 06:36:49.070] [remoteagent] [info] Extensions installed successfully: wscats.eno
+[2021-01-07 07:50:13.973] [remoteagent] [info] [127.0.0.1][1feb2803][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-01-07 08:35:50.256] [remoteagent] [info] [127.0.0.1][1feb2803][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-01-07 08:35:50.256] [remoteagent] [info] [127.0.0.1][1feb2803][ManagementConnection] The client has reconnected.
+[2021-01-07 08:35:50.257] [remoteagent] [info] [127.0.0.1][f8080575][ExtensionHostConnection] The client has reconnected.
+[2021-01-07 08:41:31.023] [remoteagent] [info] [127.0.0.1][1feb2803][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-01-07 08:41:32.059] [remoteagent] [info] [127.0.0.1][f8080575][ExtensionHostConnection] <1559> Extension Host Process exited with code: 0, signal: null.
+[2021-01-07 08:41:32.059] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-01-07 08:41:33.096] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-01-07 08:41:33.096] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-01-07 08:41:33.194] [remoteagent] [info] [127.0.0.1][b78aadcb][ManagementConnection] New connection established.
+[2021-01-07 08:41:33.195] [remoteagent] [info] [127.0.0.1][e8e9f6db][ExtensionHostConnection] New connection established.
+[2021-01-07 08:41:33.201] [remoteagent] [info] [127.0.0.1][e8e9f6db][ExtensionHostConnection] <19891> Launched Extension Host Process.
+[2021-01-07 08:41:33.208] [remoteagent] [info] Listing 1 persistent terminals, 1 total terminals
+[2021-01-07 08:41:33.219] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/.vscode'
+[2021-01-07 08:46:33.097] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-01-07 08:46:33.210] [remoteagent] [info] The short reconnection grace time of 5m has expired, so the terminal process with pid 8599 will be shutdown.
+[2021-01-07 20:24:37.002] [remoteagent] [info] [127.0.0.1][b78aadcb][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-01-07 21:47:14.839] [remoteagent] [info] [127.0.0.1][b78aadcb][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-01-07 21:47:14.841] [remoteagent] [info] [127.0.0.1][b78aadcb][ManagementConnection] The client has reconnected.
+[2021-01-07 21:47:14.843] [remoteagent] [info] [127.0.0.1][e8e9f6db][ExtensionHostConnection] The client has reconnected.
+[2021-01-07 22:16:27.649] [remoteagent] [info] [127.0.0.1][b78aadcb][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-01-08 01:16:19.071] [remoteagent] [info] [127.0.0.1][e8e9f6db][ExtensionHostConnection] <19891> Extension Host Process exited with code: 0, signal: null.
+[2021-01-08 01:16:19.071] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-01-08 01:16:27.649] [remoteagent] [info] [127.0.0.1][b78aadcb][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2021-01-08 01:21:19.071] [remoteagent] [info] Last EH closed, shutting down

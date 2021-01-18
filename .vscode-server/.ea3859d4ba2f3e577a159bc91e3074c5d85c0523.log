@@ -1,0 +1,47 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 35397
+
+[02:17:06] Extension host agent started.
+[02:17:06] [127.0.0.1][2c01d82c][ExtensionHostConnection] New connection established.
+[02:17:06] [127.0.0.1][648a0106][ManagementConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[02:17:06] Deleted from disk ms-vscode.vscode-typescript-next /home/ubuntu/.vscode-server/extensions/ms-vscode.vscode-typescript-next-4.2.20210108
+[02:17:06] Listing 0 persistent terminals, 0 total terminals
+[02:17:06] [127.0.0.1][2c01d82c][ExtensionHostConnection] <5558> Launched Extension Host Process.
+[02:17:08] Installing extension: ms-vscode.vscode-typescript-next
+[02:17:09] Downloaded extension: ms-vscode.vscode-typescript-next undefined
+[02:17:10] Extracted extension to /home/ubuntu/.vscode-server/extensions/.ms-vscode.vscode-typescript-next-4.2.20210115: ms-vscode.vscode-typescript-next
+[02:17:10] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode.vscode-typescript-next-4.2.20210115
+[02:17:10] Installation completed. ms-vscode.vscode-typescript-next
+[02:17:10] Extensions installed successfully: ms-vscode.vscode-typescript-next
+[02:17:19] [127.0.0.1][648a0106][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[02:17:20] [127.0.0.1][2c01d82c][ExtensionHostConnection] <5558> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[02:17:20] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[02:17:21] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[02:17:21] Cancelling previous shutdown timeout
+[02:17:21] [127.0.0.1][491ccc58][ExtensionHostConnection] New connection established.
+[02:17:21] [127.0.0.1][9193b195][ManagementConnection] New connection established.
+[02:17:21] [127.0.0.1][491ccc58][ExtensionHostConnection] <5735> Launched Extension Host Process.
+[02:17:21] Listing 0 persistent terminals, 0 total terminals
+[02:17:21] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/.vscode'
+New EH opened, aborting shutdown
+[02:22:21] New EH opened, aborting shutdown
+[06:23:47] [127.0.0.1][9193b195][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ubuntu/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/out/bootstrap.js:5:614)
+    at process.emit (events.js:223:5)
+[06:25:15] [127.0.0.1][9193b195][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[06:25:15] [127.0.0.1][9193b195][ManagementConnection] The client has reconnected.
+[06:25:19] [127.0.0.1][491ccc58][ExtensionHostConnection] The client has reconnected.
