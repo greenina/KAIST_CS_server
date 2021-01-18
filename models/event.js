@@ -2,13 +2,12 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
 var eventSchema = new Schema({
-    name:String,
-    image:{
-        type:Array
-    },
+    title:String,
+    poster:String,
+    card:String,
     description:String,
-    startDate:Date,
-    endDate:Date
+    s_date:Date,
+    e_date:Date
 },{collection:'events'});
 
 module.exports = mongoose.model('Event', eventSchema);

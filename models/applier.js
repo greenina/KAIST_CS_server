@@ -3,10 +3,10 @@ var Schema = mongoose.Schema;
 
 var applierSchema = new Schema({
     name:String,
-    studentNum:String,
+    studentId:String,
     phoneNum:String, 
     email:String,
-    Group:String,
+    group:String,
     motive:String,
     accept:Boolean,
     extra:String

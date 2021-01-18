@@ -6,11 +6,12 @@ router.post('/add', (req,res, next) => {
   var applier = new Applier();
   console.log(req.body);
   applier.name=req.body.name;
-  applier.studentNum = req.body.studentNum;
+  applier.studentId = req.body.studentId;
   applier.phoneNum = req.body.phoneNum;
   applier.email  = req.body.email;
   applier.group = req.body.group;
   applier.motive = req.body.motive;
+  console.log(applier.group)
   applier.save(function(err){
       if(err){
           console.error(err)

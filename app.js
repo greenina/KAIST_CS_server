@@ -4,8 +4,7 @@ var path = require('path');
 var cors = require('cors');
 var cookieParser = require('cookie-parser');
 
-var indexRouter = require('./routes/index');
-
+// var applierRouter = require('./routes/applier_middleware');
 
 var app = express();
 
@@ -14,7 +13,8 @@ mongoose.connect('mongodb+srv://inhwa:inhwa@madcamp.yaarc.mongodb.net/kaistcs?re
     useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true, useFindAndModify: false
 }).then(() => console.log('MongoDB connected...'))
 .catch(error => console.log(error))
-var indexRouter = require('./routes/index');
+var applierRouter = require('./routes/applier_middleware');
+var eventRouter = require('./routes/event_middleware');
 const bodyParser = require('body-parser');
 app.use(cors());
 app.use(express.json());
@@ -22,13 +22,9 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(bodyParser.json())
-app.use('/appliers', indexRouter);
-app.post('/appliers',(req,res)=>{
-  console.log("wowowowow");
-  let name = req.body.name;
-  console.log(name);
-  res.send({result:1})
-})
+app.use('/appliers', applierRouter);
+app.use('/event', eventRouter);
+
 
 
 // // view engine setup
