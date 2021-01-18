@@ -1,0 +1,74 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /w3_server/KAIST_CS_server
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/w3_server/KAIST_CS_server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :views/layout.pug
+> git ls-files --stage -- /w3_server/KAIST_CS_server/views/layout.pug
+> git cat-file -s 15af079bf7c34e638ba14844efd979ac9111628b
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :routes/event_middleware.js
+> git ls-files --stage -- /w3_server/KAIST_CS_server/routes/event_middleware.js
+> git cat-file -s 25c63c0a0d582096eb61faef059abddddd21d22f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git ls-files --stage -- /w3_server/KAIST_CS_server/routes/event_middleware.js
+> git rev-parse --symbolic-full-name master@{u}
+> git cat-file -s 25c63c0a0d582096eb61faef059abddddd21d22f
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :routes/event_middleware.js
+Warning: Failed to watch ref '/w3_server/KAIST_CS_server/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse sysy
+> git rev-parse --symbolic-full-name sysy@{u}
+fatal: no upstream configured for branch 'sysy'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /w3_server/KAIST_CS_server/routes/event_middleware.js
+> git cat-file -s 25c63c0a0d582096eb61faef059abddddd21d22f
+> git show --textconv :routes/event_middleware.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse sysy
+> git rev-parse --symbolic-full-name sysy@{u}
+fatal: no upstream configured for branch 'sysy'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse sysy
+> git rev-parse --symbolic-full-name sysy@{u}
+fatal: no upstream configured for branch 'sysy'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /w3_server/KAIST_CS_server/routes/event_middleware.js
+> git cat-file -s 25c63c0a0d582096eb61faef059abddddd21d22f
+> git show --textconv :routes/event_middleware.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse sysy
+> git rev-parse --symbolic-full-name sysy@{u}
+fatal: no upstream configured for branch 'sysy'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin

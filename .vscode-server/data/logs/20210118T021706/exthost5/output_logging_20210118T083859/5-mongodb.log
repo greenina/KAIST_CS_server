@@ -1,0 +1,45 @@
+2021-01-18T08:38:59.921Z extension.ts INFO  activate extension called []
+
+2021-01-18T08:38:59.923Z telemetry INFO  TELEMETRY key received [ 'string' ]
+
+2021-01-18T08:38:59.924Z LanguageServerController INFO  Creating MongoDB Language Server [
+  {
+    serverOptions: { run: [Object], debug: [Object] },
+    clientOptions: {
+      documentSelector: [Array],
+      synchronize: [Object],
+      outputChannel: [Object]
+    }
+  }
+]
+
+2021-01-18T08:38:59.928Z explorer controller INFO  activate explorer controller []
+
+2021-01-18T08:38:59.929Z help and info explorer controller INFO  activate help explorer []
+
+2021-01-18T08:38:59.929Z explorer controller INFO  activate playgrounds explorer []
+
+2021-01-18T08:38:59.930Z playground controller INFO  Active editor path [ '/home/ubuntu/package.json' ]
+
+2021-01-18T08:38:59.930Z editors controller INFO  activating... []
+
+2021-01-18T08:38:59.930Z editors controller INFO  activated. []
+
+2021-01-18T08:38:59.934Z commands INFO  Registering commands... []
+
+2021-01-18T08:38:59.935Z commands INFO  Registered commands. []
+
+2021-01-18T08:38:59.935Z extension.ts INFO  extension activated []
+
+2021-01-18T08:59:36.666Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T08:59:36.671Z playground controller INFO  Active editor path [ '/home/ubuntu/.gitignore' ]
+
+2021-01-18T08:59:38.791Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T08:59:38.852Z playground controller INFO  Active editor path [ '/home/ubuntu/routes/event_middleware.js' ]
+
+2021-01-18T09:01:02.501Z playground controller INFO  Active editor path [ undefined ]
+
+2021-01-18T09:01:02.502Z playground controller INFO  Active editor path [ '/home/ubuntu/app.js' ]
+

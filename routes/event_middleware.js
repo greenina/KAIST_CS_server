@@ -68,4 +68,8 @@ router.post('/uploads', (req, res) => {
 //   })
 // })
 
+<<<<<<< HEAD
 module.exports = router;
+=======
+module.exports = router;
+>>>>>>> 6bc630fab0a0ca1eb44280ff6cbc925e0dd1999e

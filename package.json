@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "ubuntu",
   "version": "1.0.0",
   "description": "",
@@ -17,4 +18,23 @@
   },
   "author": "",
   "license": "ISC"
+=======
+  "name": "kaist-cs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "^4.16.4",
+    "http-errors": "~1.6.3",
+    "mongoose": "^5.11.12",
+    "morgan": "~1.9.1",
+    "pug": "2.0.0-beta11"
+  }
+>>>>>>> 6bc630fab0a0ca1eb44280ff6cbc925e0dd1999e
 }

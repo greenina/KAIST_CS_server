@@ -1,0 +1,9 @@
+[Info  - 8:22:46 AM] JavaScript Standard Style server is running.
+[Info  - 8:22:46 AM] 
+Failed to load the JavaScript Standard Style library for the document /w3_server/KAIST_CS_server/routes/event_middleware.js
+
+To use JavaScript Standard Style please install JavaScript Standard Style by running 'npm install standard' in the workspace folder KAIST_CS_server
+or globally using 'npm install -g standard'. You need to reopen the workspace after installing JavaScript Standard Style.
+
+Alternatively you can disable JavaScript Standard Style for the workspace folder KAIST_CS_server by executing the 'Disable JavaScript Standard Style' command.
+[Info  - 8:26:26 AM] JavaScript Standard Style server stopped.

@@ -1,0 +1,7 @@
+2021-01-18T08:27:08.569Z: Running in production mode.
+2021-01-18T08:27:08.587Z: 35 code actions loaded.
+2021-01-18T08:59:46.101Z: Syntax error in file file:///home/ubuntu/routes/event_middleware.js (71:1).
+2021-01-18T09:00:24.236Z: Syntax error in file file:///home/ubuntu/routes/event_middleware.js (71:1).
+2021-01-18T09:00:35.554Z: Syntax error in file file:///home/ubuntu/routes/event_middleware.js (71:1).
+2021-01-18T09:00:50.665Z: File now valid: file:///home/ubuntu/routes/event_middleware.js.
+2021-01-18T09:01:04.004Z: Syntax error in file file:///home/ubuntu/app.js (1:1).
